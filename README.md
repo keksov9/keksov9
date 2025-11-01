@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**keksov9/keksov9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```markdown
+# Hi, im George
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Python Developer | Student | Tech Enthusiast**
+
+### 🛠 Tech Stack
+- **Languages:** Python, SQL, Markdown
+- **Tools:** Git, GitHub, VS Code, Jupyter
+- **Libraries:** Pandas, Requests, Matplotlib, NumPy
+- **Learning:** Web Development, Data Analysis
+
+### 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=ВАШ_ЛОГИН)
+
+### 📫 Connect with me
+- **GitHub:** [keksov9](https://github.com/keksov9)
+- **Email:** g.ostrovenko@yandex.ru
+- **Telegram:** @kekesov
+---
+
+> "First, solve the problem. Then, write the code." - John Johnson
